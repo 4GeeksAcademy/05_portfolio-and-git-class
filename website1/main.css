@@ -10,11 +10,6 @@
   background-repeat: no-repeat;
   text-align: center;
 }
-@media (max-width: 768px) {
-  .jumbotron {
-    height: 300px; 
-  }
-}
 
 #email::placeholder,
 #message::placeholder {

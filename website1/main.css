@@ -16,3 +16,7 @@
   color: #757575;
   font-weight: 500;
 }
+.rounded-circle {
+  max-width: 300px;
+  padding: 10px;
+}
